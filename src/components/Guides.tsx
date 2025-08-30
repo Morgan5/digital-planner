@@ -11,7 +11,7 @@ const Guides: React.FC = () => {
       title: 'Bien organiser son planning',
       category: 'Organisation',
       content: `
-      Je suis à cours d'inspi, c'est à toi de voirr
+      Je suis à cours d'inspi, c'est à toi de voirr.
       `,
     },
     {
@@ -19,7 +19,7 @@ const Guides: React.FC = () => {
       title: 'Astuces pour rester productif',
       category: 'Productivité',
       content: `
-      Je suis à cours d'inspi, c'est à toi de voirr
+      Je suis à cours d'inspi, c'est à toi de voirr.
       `,
     },
     {
@@ -27,7 +27,7 @@ const Guides: React.FC = () => {
       title: 'Utiliser efficacement les to-do lists',
       category: 'Organisation',
       content: `
-      Je suis à cours d'inspi, c'est à toi de voirr
+      Je suis à cours d'inspi, c'est à toi de voirr.
       `,
     },
   ];
