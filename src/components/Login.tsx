@@ -100,12 +100,6 @@ const Login: React.FC = () => {
               )}
             </button>
           </form>
-
-          <div className="mt-6 text-center text-sm text-gray-500">
-            <p>Identifiants de test :</p>
-            <p>Username: <span className="font-medium">soatiana</span></p>
-            <p>Password: <span className="font-medium">malala</span></p>
-          </div>
         </div>
       </div>
     </div>

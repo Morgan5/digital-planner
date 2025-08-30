@@ -8,35 +8,10 @@ const Guides: React.FC = () => {
   const guides: Guide[] = [
     {
       id: '1',
-      title: 'Comment bien organiser son planning',
+      title: 'Bien organiser son planning',
       category: 'Organisation',
       content: `
-# Comment bien organiser son planning
-
-## 1. Définir ses priorités
-Commencez par identifier vos tâches les plus importantes. Utilisez la matrice d'Eisenhower pour classer vos activités selon leur urgence et leur importance.
-
-## 2. Planifier par blocs de temps
-- Réservez des créneaux spécifiques pour chaque type d'activité
-- Gardez des pauses entre les tâches importantes
-- Prévoyez du temps pour les imprévus
-
-## 3. Utiliser des codes couleur
-Attribuez une couleur à chaque type d'activité :
-- Rouge : Urgent et important
-- Bleu : Travail/Professionnel
-- Vert : Personnel/Loisirs
-- Jaune : Formation/Apprentissage
-
-## 4. Réviser régulièrement
-- Consultez votre planning chaque matin
-- Ajustez au besoin selon les priorités du jour
-- Faites un bilan hebdomadaire pour améliorer votre organisation
-
-## 5. Conseils pratiques
-- Ne surchargez pas votre planning
-- Laissez de la place pour la spontanéité
-- Utilisez des rappels pour les échéances importantes
+      Je suis à cours d'inspi, c'est à toi de voirr
       `,
     },
     {
@@ -44,27 +19,7 @@ Attribuez une couleur à chaque type d'activité :
       title: 'Astuces pour rester productif',
       category: 'Productivité',
       content: `
-# Astuces pour rester productif
-
-## 1. La technique Pomodoro
-Travaillez par blocs de 25 minutes avec 5 minutes de pause. Après 4 cycles, prenez une pause plus longue de 15-30 minutes.
-
-## 2. Éliminer les distractions
-- Mettez votre téléphone en mode silencieux
-- Fermez les onglets inutiles
-- Créez un environnement de travail dédié
-
-## 3. La règle des 2 minutes
-Si une tâche prend moins de 2 minutes, faites-la immédiatement plutôt que de la reporter.
-
-## 4. Préparer sa journée la veille
-Préparez votre liste de tâches du lendemain avant de terminer votre journée de travail.
-
-## 5. Prendre soin de soi
-- Dormez suffisamment (7-8h par nuit)
-- Faites des pauses régulières
-- Hydratez-vous et mangez équilibré
-- Pratiquez une activité physique
+      Je suis à cours d'inspi, c'est à toi de voirr
       `,
     },
     {
@@ -72,33 +27,7 @@ Préparez votre liste de tâches du lendemain avant de terminer votre journée d
       title: 'Utiliser efficacement les to-do lists',
       category: 'Organisation',
       content: `
-# Utiliser efficacement les to-do lists
-
-## 1. Principe de base
-Une to-do list efficace doit être simple, claire et actionnable.
-
-## 2. Rédiger des tâches actionables
-❌ "Travailler sur le projet"
-✅ "Rédiger l'introduction du rapport de projet"
-
-## 3. Limiter le nombre de tâches
-Ne mettez pas plus de 3-5 tâches importantes par jour pour éviter la surcharge.
-
-## 4. Utiliser des catégories
-Organisez vos tâches par :
-- Urgence (Aujourd'hui, Cette semaine, Plus tard)
-- Contexte (Maison, Bureau, Courses)
-- Projet (Projet A, Projet B, Personnel)
-
-## 5. Réviser et ajuster
-- Révisez votre liste chaque matin
-- Déplacez les tâches non terminées
-- Célébrez vos accomplissements
-
-## 6. Techniques avancées
-- Utilisez la méthode GTD (Getting Things Done)
-- Appliquez la matrice d'Eisenhower
-- Essayez le time-blocking pour vos tâches importantes
+      Je suis à cours d'inspi, c'est à toi de voirr
       `,
     },
   ];
